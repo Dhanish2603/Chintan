@@ -8542,7 +8542,31 @@ textarea.form-control {
 
 #section-counter {
   position: relative;
-  z-index: 0; }
+  z-index: 0; 
+}
+  
+  .alumni-img{
+    overflow: hidden;
+    width: 500px;
+    height: 500px;
+  }
+  .owl-item{
+    width: 500px !important;
+    height: 500px !important;
+  }
+  .alumni-img .item{
+    /* height: 300px !important; */
+    /* padding: 30px; */
+    width: 590px !important;
+    overflow: hidden;
+  }
+  .block-50{
+    height: auto !important;
+  }
+
+  .set-text{
+    margin-top: 0 !important;
+  }
 
 .block-20 {
   overflow: hidden;
